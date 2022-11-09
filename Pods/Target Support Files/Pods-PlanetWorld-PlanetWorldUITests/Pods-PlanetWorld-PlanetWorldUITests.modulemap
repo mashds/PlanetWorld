@@ -1,0 +1,6 @@
+framework module Pods_PlanetWorld_PlanetWorldUITests {
+  umbrella header "Pods-PlanetWorld-PlanetWorldUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
